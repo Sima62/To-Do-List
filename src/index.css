@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://tse4.mm.bing.net/th?id=OIP.pa-OgElIeVAzC-YDQWHG5wHaDt&pid=Api&P=0&w=320&h=160");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
